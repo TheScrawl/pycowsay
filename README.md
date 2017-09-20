@@ -1,2 +1,2 @@
 # pycowsay
-yes
+Minimalistic rewrite of cowsay in python 3
