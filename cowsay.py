@@ -8,4 +8,5 @@ def say(word):
                 ||----w |
                 ||     ||''')
 
-say(input())
+word = None
+say(word)
